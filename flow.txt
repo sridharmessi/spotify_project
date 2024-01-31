@@ -1,0 +1,10 @@
+getting the data from the spotify data 
+through the protocal know as outh 2.0
+
+next from the nested json .make into readable and structural format and 
+getting only the neccessary columns alone
+
+---
+in next in future 
+putting the dataframe converted into csv and placing in the storage location..
+
